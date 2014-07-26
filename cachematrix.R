@@ -38,7 +38,7 @@ cacheSolve <- function(x, ...) {
   InvMat # Return the inverse matrix
 }
 
-# To test the 
+# To test the functions
 #x<-makeCacheMatrix()
 #a<-matrix(rnorm(16),4,4)
 #x$setMatrix(a)
